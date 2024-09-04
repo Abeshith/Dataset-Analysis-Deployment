@@ -2,6 +2,9 @@
 
 This Streamlit application allows users to upload CSV data files and perform various analyses, including data visualization, prediction using machine learning models, and clustering. The app is divided into four main sections: **Data Analysis**, **Compare Plots**, **Prediction**, and **Clustering**.
 
+**Click here for the app:** [Vegetable Image Classification App](https://dataset-analysis-deployment-abe.streamlit.app/)
+
+
 ### Sections
 
 1. ### Data Analysis
